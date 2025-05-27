@@ -1,0 +1,35 @@
+[
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading1.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading2.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading3.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading4.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading5.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading6.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading7.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading8.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading9.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading10.edds"
+    },
+    {
+        "ImagePath": "CustomUI/GUI/LoadingScreens/loading11.edds"
+    }
+]

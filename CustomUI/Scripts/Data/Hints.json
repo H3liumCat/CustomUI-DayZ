@@ -1,0 +1,62 @@
+[
+    {
+        "m_Headline": "Willkommen auf unserem Server",
+        "m_ImagePath": "",
+        "m_Description": "Wir wünschen dir viel Spaß beim Spielen auf unserem DayZ Server!"
+    },
+    {
+        "m_Headline": "Was dich bei uns erwartet",
+        "m_ImagePath": "",
+        "m_Description": "PVP Gebiete, PVE Bereich, Stalker Theme, Strahlungszonen, Anomalien, Fraktionen, Fraktionen Camps, Quests, Trader, Ausrüstung, Basebuilding"
+    },
+    {
+        "m_Headline": "Steigere deine Fähigkeiten",
+        "m_ImagePath": "",
+        "m_Description": "Durch die Skill Mod habt ihr die Möglichkeit eure Fähigkeiten auszubauen"
+    },
+    {
+        "m_Headline": "Überlebensstrategie",
+        "m_ImagePath": "",
+        "m_Description": "Finde als erstes Wasser, Nahrung und eine Waffe. Bleibe in Bewegung und vermeide offene Flächen."
+    },
+    {
+        "m_Headline": "Kommunikation",
+        "m_ImagePath": "",
+        "m_Description": "Nutze die Ingame-Sprachchat (Standard: Caps Lock) oder drücke . für Text-Chat."
+    },
+    {
+        "m_Headline": "Krankheiten",
+        "m_ImagePath": "",
+        "m_Description": "Trinke nur sauberes Wasser und iss keine verdorbenen Lebensmittel, um Krankheiten zu vermeiden."
+    },
+    {
+        "m_Headline": "Zombies",
+        "m_ImagePath": "",
+        "m_Description": "Zombies reagieren auf Licht und Geräusche. Schleiche, um unentdeckt zu bleiben."
+    },
+    {
+        "m_Headline": "Basebuilding",
+        "m_ImagePath": "",
+        "m_Description": "Sammle Werkzeuge und Materialien, um eine sichere Basis zu errichten."
+    },
+    {
+        "m_Headline": "Fahrzeuge",
+        "m_ImagePath": "",
+        "m_Description": "Fahrzeuge benötigen Treibstoff, Wasser und intakte Reifen."
+    },
+    {
+        "m_Headline": "Waffen und Munition",
+        "m_ImagePath": "",
+        "m_Description": "Halte deine Waffen in gutem Zustand. Verschmutzte Waffen können Ladehemmungen verursachen."
+    },
+    {
+        "m_Headline": "Serverregeln",
+        "m_ImagePath": "",
+        "m_Description": "Besuche unsere Website für die vollständigen Serverregeln und Community-Richtlinien."
+    },
+    {
+        "m_Headline": "Discord",
+        "m_ImagePath": "",
+        "m_Description": "Tritt unserem Discord bei, um mit anderen Spielern zu kommunizieren und über Server-Updates informiert zu werden."
+    }
+]
